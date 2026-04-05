@@ -1,0 +1,9 @@
+{
+  "bank_chest_color": {"r": 255, "g": 0, "b": 255, "tolerance": 20, "enabled": true},
+  "ore_active_color": {"r": 0, "g": 255, "b": 255, "tolerance": 20, "enabled": true},
+  "ore_depleted_color": {"r": 128, "g": 128, "b": 128, "tolerance": 20, "enabled": true},
+  "hopper_color": {"r": 255, "g": 255, "b": 0, "tolerance": 20, "enabled": true},
+  "ladder_ascend_color": {"r": 0, "g": 255, "b": 0, "tolerance": 20, "enabled": true},
+  "ladder_descend_color": {"r": 255, "g": 0, "b": 0, "tolerance": 20, "enabled": true},
+  "sack_color": {"r": 0, "g": 0, "b": 255, "tolerance": 20, "enabled": true}
+}
